@@ -18,7 +18,7 @@ Out				= Out
 Reads			= Reads
 Writes			= Writes
 
-General			= General
+General			= Generall
 Disk			= Disk
 CPU				= CPU
 RAM				= RAM
