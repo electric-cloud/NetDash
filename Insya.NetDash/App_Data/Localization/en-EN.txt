@@ -18,7 +18,7 @@ Out				= Out
 Reads			= Reads
 Writes			= Writes
 
-General			= Generalll
+General			= General
 Disk			= Disk
 CPU				= CPU
 RAM				= RAM
@@ -33,7 +33,7 @@ Uptime			= Uptime
 Hostname		= Hostname
 Server			= Server
 CPUs			= CPU(s)
-GeneralInfo 	= General Info
+GeneralInfo 	= Generalll Imfo
 MainPage		= Main Page
 CPUUsage		= CPU Usage
 MemoryUsage		= Memory Usage
