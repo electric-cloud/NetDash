@@ -5,6 +5,7 @@
 # Translate: Yasin Kuyu
 # www.yasinkuyu.net
 # http://www.science.co.il/language/locale-codes.asp
+# test
 
 langname		= English (en-EN)
 langcode		= 1033
